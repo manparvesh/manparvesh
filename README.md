@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-manparvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manparvesh/)](https://www.linkedin.com/in/manparvesh/)
 [![Gmail Badge](https://img.shields.io/badge/-mxr180061@utdallas.edu-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:mxr180061@utdallas.edu)
 [![Github Badge](https://img.shields.io/badge/-manparvesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/manparvesh/)
-[![Leetcode Badge](https://img.shields.io/badge/-manparvesh-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/manparvesh/)](https://leetcode.com/manparvesh/)
+[![Leetcode Badge](https://img.shields.io/badge/-manparvesh-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/manparvesh/)](https://leetcode.com/manparvesh/)
+[![Leetcode Badge](https://img.shields.io/badge/-manparvesh.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://manparvesh.com/)](https://manparvesh.com/)
 
 <h3>Technologies I like</h3>
 <p>
@@ -31,6 +32,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
+
 
 <!--
 **manparvesh/manparvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
