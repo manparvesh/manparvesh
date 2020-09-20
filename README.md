@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 I am [Man Parvesh](https://manparvesh.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-manparvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manparvesh/)](https://www.linkedin.com/in/manparvesh/)
+[![Gmail Badge](https://img.shields.io/badge/-mxr180061@utdallas.edu-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:mxr180061@utdallas.edu)
+[![Leetcode Badge](https://img.shields.io/badge/-manparvesh-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/manparvesh/)](https://leetcode.com/manparvesh/)
+[![Github Badge](https://img.shields.io/badge/-manparvesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/manparvesh/)
+
 
 <!--
 **manparvesh/manparvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
