@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mxr180061@utdallas.edu-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:mxr180061@utdallas.edu)
 [![Github Badge](https://img.shields.io/badge/-manparvesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/manparvesh/)
 [![Leetcode Badge](https://img.shields.io/badge/-manparvesh-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/manparvesh/)](https://leetcode.com/manparvesh/)
+[![binarysearch](https://binarysearch.com/api/shields/manparvesh)](https://binarysearch.com/@/manparvesh)
 [![Leetcode Badge](https://img.shields.io/badge/-manparvesh.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://manparvesh.com/)](https://manparvesh.com/)
 
 <h3>Technologies I like</h3>
