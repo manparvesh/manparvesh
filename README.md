@@ -1,13 +1,12 @@
 ## Hi there 👋 I am [Man Parvesh](https://manparvesh.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-manparvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manparvesh/)](https://www.linkedin.com/in/manparvesh/)
-[![Gmail Badge](https://img.shields.io/badge/-mxr180061@utdallas.edu-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:mxr180061@utdallas.edu)
 [![Github Badge](https://img.shields.io/badge/-manparvesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/manparvesh/)
 [![Website Badge](https://img.shields.io/badge/-manparvesh.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://manparvesh.com/)](https://manparvesh.com/)
 <!-- [![Leetcode Badge](https://img.shields.io/badge/-manparvesh-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/manparvesh/)](https://leetcode.com/manparvesh/) -->
 <!-- [![binarysearch](https://binarysearch.com/api/shields/manparvesh)](https://binarysearch.com/@/manparvesh) -->
 
-<h3>Technologies I like</h3>
+<h3>Technologies I like and work on</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
