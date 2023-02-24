@@ -3,12 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-manparvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manparvesh/)](https://www.linkedin.com/in/manparvesh/)
 [![Github Badge](https://img.shields.io/badge/-manparvesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/manparvesh/)
 [![Website Badge](https://img.shields.io/badge/-manparvesh.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://manparvesh.com/)](https://manparvesh.com/)
+[![Kitchen website](https://img.shields.io/badge/-kitchen.manparvesh.com-6DB33F?style=flat-square&logo=parsedotly&logoColor=white&link=https://manparvesh.com/)](https://kitchen.manparvesh.com/)
 <!-- [![Leetcode Badge](https://img.shields.io/badge/-manparvesh-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/manparvesh/)](https://leetcode.com/manparvesh/) -->
 <!-- [![binarysearch](https://binarysearch.com/api/shields/manparvesh)](https://binarysearch.com/@/manparvesh) -->
 
-<h3>Technologies I like and work on</h3>
+<h3>Technologies I like and work with:</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 <!--   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" /> -->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -24,7 +25,7 @@
   <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=flat-square&logo=travis&logoColor=white" />
 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-Cassandra&logoColor=white" />
+<!--   <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-Cassandra&logoColor=white" /> -->
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
@@ -32,6 +33,12 @@
 <!--   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> -->
 </p>
 
+### Technologies I'm currently learning:
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-orange?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-green?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Perl" src="https://img.shields.io/badge/-Perl-violet?style=flat-square&logo=perl&logoColor=white" />
+</p>
 
 <!--
 **manparvesh/manparvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
