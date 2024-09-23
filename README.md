@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-manparvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manparvesh/)](https://www.linkedin.com/in/manparvesh/)
 [![Github Badge](https://img.shields.io/badge/-manparvesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/manparvesh/)
 [![Website Badge](https://img.shields.io/badge/-manparvesh.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://manparvesh.com/)](https://manparvesh.com/)
-[![Kitchen website](https://img.shields.io/badge/-kitchen.manparvesh.com-6DB33F?style=flat-square&logo=parsedotly&logoColor=white&link=https://manparvesh.com/)](https://kitchen.manparvesh.com/)
+[![Kitchen website](https://img.shields.io/badge/-kitchen.manparvesh.com-6DB33F?style=flat-square&logo=parsedotly&logoColor=white&link=https://kitchen.manparvesh.com/)](https://kitchen.manparvesh.com/)
+[![Photography website](https://img.shields.io/badge/-photos.manparvesh.com-red?style=flat-square&logo=googlephotos&logoColor=white&link=https://photos.manparvesh.com/)](https://photos.manparvesh.com/)
 <!-- [![Leetcode Badge](https://img.shields.io/badge/-manparvesh-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/manparvesh/)](https://leetcode.com/manparvesh/) -->
 <!-- [![binarysearch](https://binarysearch.com/api/shields/manparvesh)](https://binarysearch.com/@/manparvesh) -->
 
@@ -38,6 +39,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-orange?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-green?style=flat-square&logo=php&logoColor=white" />
   <img alt="Perl" src="https://img.shields.io/badge/-Perl-violet?style=flat-square&logo=perl&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white" />
 </p>
 
 <!--
