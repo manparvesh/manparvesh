@@ -10,10 +10,10 @@ Backend engineer at Yahoo Fantasy Sports specializing in distributed systems, mi
 - MS Computer Science, UT Dallas | B.Tech, IIT Guwahati
 
 ## Technical Expertise
-**Languages & Frameworks:** Java, Python, Spring Boot, Bash
-**Cloud & Infrastructure:** AWS (MemoryDB, Elasticache, DynamoDB, EKS, EC2), Kubernetes, Docker, Ansible, Terraform
-**Databases:** MySQL, Redis, Distributed Key-Value Stores
-**Specializations:** Distributed Systems, Backend Development, Infrastructure as Code, DevOps
+- **Languages & Frameworks:** Java, Python, Spring Boot, Bash
+- **Cloud & Infrastructure:** AWS (MemoryDB, Elasticache, DynamoDB, EKS, EC2), Kubernetes, Docker, Ansible, Terraform
+- **Databases:** MySQL, Redis, Distributed Key-Value Stores
+- **Specializations:** Distributed Systems, Backend Development, Infrastructure as Code, DevOps
 
 ## Notable Projects
 - **[Yoda](https://github.com/manparvesh/yoda)** - Terminal personal assistant for developers (746+ stars)
